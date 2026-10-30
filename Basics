@@ -1,0 +1,17 @@
+print('This is my first Python program.')
+print(' ')
+print("My name is Gaby. What is yours? ")
+name = input()
+print(' ')
+print("Nice to meet you " + name + "!")
+age = int(input("How old are you " + name + "? "))
+
+if age < 19:
+    print("Wow, you are younger than me!")
+    print(' ')
+elif age > 19:
+    print("Wow, you are older than me!")
+    print(' ')
+else:
+    print("Wow, we are the same age. :)")
+    print(' ')
