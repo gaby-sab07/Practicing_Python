@@ -2,4 +2,4 @@
 I will be using this repo to practice Python on my own.
 
 Here are my current programs:
-- **Basics:** Receiving and storing an input
+- [Basics](python/input_basics.py): Receiving and storing an input
